@@ -28,4 +28,4 @@ The config with TCADer framework and accelerator has been written in BoomConfig.
 
 #### Test
 
-测试程序编译见run.sh.
+See run.sh for test program compilation.
