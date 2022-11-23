@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab8ae516-0987-4d5f-bdfe-78c8a0820063" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.circleci/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/.circleci/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.circleci/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.circleci/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE.md" beforeDir="false" afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" afterPath="$PROJECT_DIR$/.github/PULL_REQUEST_TEMPLATE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHIPYARD.hash" beforeDir="false" afterPath="$PROJECT_DIR$/CHIPYARD.hash" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTRIB_AND_STYLE.md" beforeDir="false" afterPath="$PROJECT_DIR$/CONTRIB_AND_STYLE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.SiFive" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE.SiFive" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TODO.md" beforeDir="false" afterPath="$PROJECT_DIR$/TODO.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/docs/conf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/figures/1w-rrd-bypass-pipeline.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/figures/1w-rrd-bypass-pipeline.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/figures/1w-rrd-bypass-pipeline.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/figures/1w-rrd-bypass-pipeline.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/figures/2bc-fsm.svg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/figures/2bc-fsm.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/figures/2bc-prediction.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/figures/2bc-prediction.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/figures/2bc-prediction.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/figures/2bc-prediction.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/figures/abstract-functional-unit.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/figures/abstract-functional-unit.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/figures/abstract-functional-unit.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/figures/abstract-functional-unit.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/figures/boom-pipeline-detailed.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/figures/boom-pipeline-detailed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/figures/boom-pipeline.svg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/figures/boom-pipeline.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/figures/bpd.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/figures/bpd.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/figures/bpd.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/figures/bpd.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/figures/br-prediction-pipeline.svg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/figures/br-prediction-pipeline.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/figures/btb.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/figures/btb.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/figures/btb.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/figures/btb.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/figures/chip.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/figures/chip.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/figures/chip.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/figures/chip.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/figures/execution-pipeline-2w.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/figures/execution-pipeline-2w.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/figures/execution-pipeline-2w.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/figures/execution-pipeline-2w.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/figures/execution-unit.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/figures/execution-unit.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/figures/execution-unit.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/figures/execution-unit.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/figures/front-end.svg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/figures/front-end.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/figures/functional-unit-fpu.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/figures/functional-unit-fpu.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/figures/functional-unit-fpu.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/figures/functional-unit-fpu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/figures/functional-unit-hierarchy.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/figures/functional-unit-hierarchy.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/figures/functional-unit-hierarchy.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/figures/functional-unit-hierarchy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/figures/gshare.svg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/figures/gshare.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/figures/issue_slot.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/figures/issue_slot.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/figures/issue_slot.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/figures/issue_slot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/figures/lsu.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/figures/lsu.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/figures/lsu.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/figures/lsu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/figures/prf-and-arf.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/figures/prf-and-arf.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/figures/prf-and-arf.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/figures/prf-and-arf.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/figures/rename-pipeline.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/figures/rename-pipeline.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/figures/rename-pipeline.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/figures/rename-pipeline.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/figures/rob.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/figures/rob.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/figures/rob.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/figures/rob.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/figures/tage.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/figures/tage.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/figures/tage.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/figures/tage.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sections/bibliography/bibliography.bib" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sections/bibliography/bibliography.bib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sections/boom-ecosystem.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sections/boom-ecosystem.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sections/branch-prediction/backing-predictor.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sections/branch-prediction/backing-predictor.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sections/branch-prediction/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sections/branch-prediction/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sections/branch-prediction/nl-predictor.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sections/branch-prediction/nl-predictor.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sections/debugging.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sections/debugging.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sections/decode-stage.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sections/decode-stage.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sections/execution-stages.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sections/execution-stages.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sections/faq.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sections/faq.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sections/future-work.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sections/future-work.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sections/instruction-fetch-stage.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sections/instruction-fetch-stage.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sections/intro-overview/boom-pipeline.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sections/intro-overview/boom-pipeline.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sections/intro-overview/boom.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sections/intro-overview/boom.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sections/intro-overview/chisel.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sections/intro-overview/chisel.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sections/intro-overview/riscv-isa.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sections/intro-overview/riscv-isa.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sections/intro-overview/rocket-chip.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sections/intro-overview/rocket-chip.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sections/issue-units.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sections/issue-units.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sections/load-store-unit.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sections/load-store-unit.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sections/memory-system.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sections/memory-system.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sections/parameterization.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sections/parameterization.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sections/physical-realization.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sections/physical-realization.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sections/reg-file-bypass-network.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sections/reg-file-bypass-network.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sections/rename-stage.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sections/rename-stage.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sections/reorder-buffer.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sections/reorder-buffer.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sections/terminology.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sections/terminology.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sections/uarch-counters.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sections/uarch-counters.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sections/verification.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sections/verification.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/plugins.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/project/plugins.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scalastyle-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/scalastyle-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/csrc/dromajo_boom.cc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/csrc/dromajo_boom.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/csrc/dromajo_wrapper.cc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/csrc/dromajo_wrapper.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/csrc/dromajo_wrapper.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/csrc/dromajo_wrapper.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/vsrc/dromajo_boom.v" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/vsrc/dromajo_boom.v" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/POU.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/acc.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/acc_lcm.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/bpu/bpd-pipeline.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/bpu/bpd-pipeline.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/bpu/bpd/br-predictor.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/bpu/bpd/br-predictor.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/bpu/bpd/gshare/gshare.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/bpu/bpd/gshare/gshare.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/bpu/bpd/simple-predictors/base-only.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/bpu/bpd/simple-predictors/base-only.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/bpu/bpd/simple-predictors/simple-predictors.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/bpu/bpd/simple-predictors/simple-predictors.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/bpu/bpd/tage/tage-table.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/bpu/bpd/tage/tage-table.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/bpu/bpd/tage/tage.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/bpu/bpd/tage/tage.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/bpu/btb/bim.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/bpu/btb/bim.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/bpu/btb/btb-sa.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/bpu/btb/btb-sa.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/bpu/btb/btb.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/bpu/btb/btb.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/bpu/btb/dense-btb.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/bpu/btb/dense-btb.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/bpu/misc/2bc-table.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/bpu/misc/2bc-table.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/common/config-mixins.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/common/config-mixins.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/common/consts.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/common/consts.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/common/micro-op.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/common/micro-op.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/common/package.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/common/package.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/common/parameters.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/common/parameters.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/common/tile.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/common/tile.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/common/types.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/common/types.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/exu/core.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/exu/core.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/exu/decode.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/exu/decode.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/exu/dispatch.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/exu/dispatch.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/exu/execution-units/execution-unit.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/exu/execution-units/execution-unit.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/exu/execution-units/execution-units.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/exu/execution-units/execution-units.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/exu/execution-units/fdiv.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/exu/execution-units/fdiv.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/exu/execution-units/fpu.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/exu/execution-units/fpu.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/exu/execution-units/functional-unit.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/exu/execution-units/functional-unit.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/exu/execution-units/rocc.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/exu/execution-units/rocc.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/exu/fp-pipeline.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/exu/fp-pipeline.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/exu/issue-units/issue-slot.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/exu/issue-units/issue-slot.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/exu/issue-units/issue-unit-age-ordered.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/exu/issue-units/issue-unit-age-ordered.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/exu/issue-units/issue-unit-prioritizing.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/exu/issue-units/issue-unit-prioritizing.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/exu/issue-units/issue-unit-unordered.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/exu/issue-units/issue-unit-unordered.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/exu/issue-units/issue-unit.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/exu/issue-units/issue-unit.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/exu/register-read/func-unit-decode.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/exu/register-read/func-unit-decode.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/exu/register-read/regfile.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/exu/register-read/regfile.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/exu/register-read/register-read.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/exu/register-read/register-read.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/exu/rename/rename-busytable.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/exu/rename/rename-busytable.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/exu/rename/rename-freelist.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/exu/rename/rename-freelist.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/exu/rename/rename-maptable.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/exu/rename/rename-maptable.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/exu/rename/rename-stage.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/exu/rename/rename-stage.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/exu/rob.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/exu/rob.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/hmt/aes.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/hmt/ygjk/config_ygjk.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/hmt/ygjk/config_ygjk.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/hmt/ygjk/ygjk.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/hmt/ygjk/ygjk.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/ifu/branch-checker.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/ifu/branch-checker.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/ifu/fetch-buffer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/ifu/fetch-buffer.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/ifu/fetch-control-unit.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/ifu/fetch-control-unit.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/ifu/fetch-monitor.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/ifu/fetch-monitor.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/ifu/fetch-target-queue.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/ifu/fetch-target-queue.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/ifu/frontend.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/ifu/frontend.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/ifu/icache.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/ifu/icache.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/lsu/dcache.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lsu/dcache.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/lsu/lsu.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lsu/lsu.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/lsu/mshrs.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lsu/mshrs.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/lsu/prefetcher.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lsu/prefetcher.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/lsu/tlb.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lsu/tlb.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/util/dromajo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/util/dromajo.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/util/elastic-reg.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/util/elastic-reg.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/util/elastic-sram.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/util/elastic-sram.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/util/seqmem-transformable.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/util/seqmem-transformable.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/util/util.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/util/util.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/ygjk.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/RegFileTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/RegFileTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/TestUtils.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/TestUtils.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/testMain.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/testMain.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/testYGJK.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/testYGJK.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/csmith/sources/crt.S" beforeDir="false" afterPath="$PROJECT_DIR$/util/csmith/sources/crt.S" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/csmith/sources/encoding.h" beforeDir="false" afterPath="$PROJECT_DIR$/util/csmith/sources/encoding.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/csmith/sources/link.ld" beforeDir="false" afterPath="$PROJECT_DIR$/util/csmith/sources/link.ld" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/csmith/sources/syscalls.c" beforeDir="false" afterPath="$PROJECT_DIR$/util/csmith/sources/syscalls.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/csmith/sources/util.h" beforeDir="false" afterPath="$PROJECT_DIR$/util/csmith/sources/util.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/memtracer/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/util/memtracer/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/memtracer/memtracer.c" beforeDir="false" afterPath="$PROJECT_DIR$/util/memtracer/memtracer.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main/scala/hmt" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1vLSGsNIDffZ3mQHHObrd2cd437" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab8ae516-0987-4d5f-bdfe-78c8a0820063" name="Default Changelist" comment="" />
+      <created>1626339783758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626339783758</updated>
+    </task>
+    <servers />
+  </component>
+</project>

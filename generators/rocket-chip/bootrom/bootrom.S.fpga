@@ -1,0 +1,25 @@
+#define DDR_BASE  0x80000000
+#define BRAM_BASE 0x60010000
+
+.section .text.start, "ax", @progbits
+.globl _start
+_start:
+  li s0, DDR_BASE
+  csrr a0, mhartid
+  jr s0
+
+.section .text.hang, "ax", @progbits
+.globl _hang
+_hang:
+  csrr a0, mhartid
+  bnez a0, wfi_loop
+
+  li s0, BRAM_BASE
+  jr s0
+
+wfi_loop: 
+  wfi                      // If interrupt is disabled. when awake from wfi, it will execute following instructions
+  li s0, DDR_BASE
+  csrr a0, mhartid
+  jr s0
+

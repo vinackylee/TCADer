@@ -1,0 +1,29 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/vinacky/user/chipyard/chipyard-1.2/generators/chipyard/target/scala-2.12/chipyard_2.12-1.0-tests.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	chipyard/tests/BoomTestUtils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vinacky/user/chipyard/chipyard-1.2/generators/chipyard/target/scala-2.12/test-classes/chipyard/tests/BoomTestUtils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	chipyard/tests/BoomTestUtils$$anonfun$augment$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vinacky/user/chipyard/chipyard-1.2/generators/chipyard/target/scala-2.12/test-classes/chipyard/tests/BoomTestUtils$$anonfun$augment$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	chipyard/tests/BoomTestUtils$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vinacky/user/chipyard/chipyard-1.2/generators/chipyard/target/scala-2.12/test-classes/chipyard/tests/BoomTestUtils$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	chipyard/tests/BoomTestUtils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vinacky/user/chipyard/chipyard-1.2/generators/chipyard/target/scala-2.12/test-classes/chipyard/tests/BoomTestUtils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	chipyard/tests/BHTTests.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vinacky/user/chipyard/chipyard-1.2/generators/chipyard/target/scala-2.12/test-classes/chipyard/tests/BHTTests.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	chipyard/tests/BoomTestUtils$$anon$1$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vinacky/user/chipyard/chipyard-1.2/generators/chipyard/target/scala-2.12/test-classes/chipyard/tests/BoomTestUtils$$anon$1$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	chipyard[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vinacky/user/chipyard/chipyard-1.2/generators/chipyard/target/scala-2.12/test-classes/chipyard[0m
+[0m[[0m[0mdebug[0m] [0m[0m	chipyard/tests/testMain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vinacky/user/chipyard/chipyard-1.2/generators/chipyard/target/scala-2.12/test-classes/chipyard/tests/testMain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	chipyard/tests[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vinacky/user/chipyard/chipyard-1.2/generators/chipyard/target/scala-2.12/test-classes/chipyard/tests[0m
+[0m[[0m[0mdebug[0m] [0m[0m	chipyard/tests/testYGJK.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vinacky/user/chipyard/chipyard-1.2/generators/chipyard/target/scala-2.12/test-classes/chipyard/tests/testYGJK.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	chipyard/tests/testYGJK$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vinacky/user/chipyard/chipyard-1.2/generators/chipyard/target/scala-2.12/test-classes/chipyard/tests/testYGJK$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	chipyard/tests/YGJKTests.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vinacky/user/chipyard/chipyard-1.2/generators/chipyard/target/scala-2.12/test-classes/chipyard/tests/YGJKTests.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	chipyard/tests/testMain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vinacky/user/chipyard/chipyard-1.2/generators/chipyard/target/scala-2.12/test-classes/chipyard/tests/testMain$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

@@ -1,0 +1,24 @@
+test:runMain
+test:runMain chipyard.tests.testMain
+test:runMain chipyard.tests.t
+test:runMain chipyard.tests.testMain
+test:runMain chipyard.tests.testMai
+test:runMain chipyard
+test:runMain 
+test:runMain a
+test:runMain chipyard.tests.testMain --is-verbose
+test:runMain chipyard.testMain --is-verbose
+test:runMain chipyard.testMain 
+test:runMain chipyard.tests.testMain
+test:runMain tests.testMain
+test:runMain chipyard.test.testMain
+test:runMain chipyard.testS.testYGJK
+test:runMain chipyard.tests.testYGJK
+chipyard/test:runMain chipyard.tests.testYGJK
+test:runMain chipyard.tests.testYGJK
+compile
+boom/compile
+boom/compile 
+compile 
+test:runMain chipyard.tests.testYGJK
+chipyard/test:runMain chipyard.tests.testYGJK

@@ -1,0 +1,301 @@
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ArianeConfigs.scala:3:8: not found: object chisel3[0m
+[0m[[0m[31merror[0m] [0m[0mimport chisel3._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ArianeConfigs.scala:5:8: not found: object freechips[0m
+[0m[[0m[31merror[0m] [0m[0mimport freechips.rocketchip.config.{Config}[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ArianeConfigs.scala:11:28: not found: type Config[0m
+[0m[[0m[31merror[0m] [0m[0mclass ArianeConfig extends Config([0m
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ArianeConfigs.scala:25:34: no arguments allowed for nullary constructor Object: ()Object[0m
+[0m[[0m[31merror[0m] [0m[0m  new ariane.WithNArianeCores(1) ++                              // single Ariane core[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ArianeConfigs.scala:28:31: not found: type Config[0m
+[0m[[0m[31merror[0m] [0m[0mclass dmiArianeConfig extends Config([0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ArianeConfigs.scala:41:34: no arguments allowed for nullary constructor Object: ()Object[0m
+[0m[[0m[31merror[0m] [0m[0m  new ariane.WithNArianeCores(1) ++[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ConfigFragments.scala:3:8: not found: object chisel3[0m
+[0m[[0m[31merror[0m] [0m[0mimport chisel3._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ConfigFragments.scala:4:8: not found: object chisel3[0m
+[0m[[0m[31merror[0m] [0m[0mimport chisel3.util.{log2Up}[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ConfigFragments.scala:6:8: not found: object freechips[0m
+[0m[[0m[31merror[0m] [0m[0mimport freechips.rocketchip.config.{Field, Parameters, Config}[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ConfigFragments.scala:7:8: not found: object freechips[0m
+[0m[[0m[31merror[0m] [0m[0mimport freechips.rocketchip.subsystem.{SystemBusKey, RocketTilesKey, WithRoccExample, WithNMemoryChannels, WithNBigCores, WithRV32, CacheBlockBytes}[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ConfigFragments.scala:8:8: not found: object freechips[0m
+[0m[[0m[31merror[0m] [0m[0mimport freechips.rocketchip.diplomacy.{LazyModule, ValName}[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ConfigFragments.scala:9:8: not found: object freechips[0m
+[0m[[0m[31merror[0m] [0m[0mimport freechips.rocketchip.devices.tilelink.BootROMParams[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ConfigFragments.scala:10:8: not found: object freechips[0m
+[0m[[0m[31merror[0m] [0m[0mimport freechips.rocketchip.devices.debug.{Debug}[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ConfigFragments.scala:11:8: not found: object freechips[0m
+[0m[[0m[31merror[0m] [0m[0mimport freechips.rocketchip.tile.{XLen, BuildRoCC, TileKey, LazyRoCC, RocketTileParams, MaxHartIdBits}[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ConfigFragments.scala:12:8: not found: object freechips[0m
+[0m[[0m[31merror[0m] [0m[0mimport freechips.rocketchip.rocket.{RocketCoreParams, MulDivParams, DCacheParams, ICacheParams}[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ConfigFragments.scala:13:8: not found: object freechips[0m
+[0m[[0m[31merror[0m] [0m[0mimport freechips.rocketchip.util.{AsyncResetReg}[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ConfigFragments.scala:15:8: not found: object boom[0m
+[0m[[0m[31merror[0m] [0m[0mimport boom.common.{BoomTilesKey}[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ConfigFragments.scala:17:8: not found: object testchipip[0m
+[0m[[0m[31merror[0m] [0m[0mimport testchipip._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ConfigFragments.scala:19:8: not found: object hwacha[0m
+[0m[[0m[31merror[0m] [0m[0mimport hwacha.{Hwacha}[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ConfigFragments.scala:21:8: not found: object sifive[0m
+[0m[[0m[31merror[0m] [0m[0mimport sifive.blocks.devices.gpio._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ConfigFragments.scala:22:8: not found: object sifive[0m
+[0m[[0m[31merror[0m] [0m[0mimport sifive.blocks.devices.uart._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ConfigFragments.scala:30:26: not found: value ValName[0m
+[0m[[0m[31merror[0m] [0m[0m  implicit val valName = ValName("TestHarness")[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ConfigFragments.scala:38:27: not found: type Config[0m
+[0m[[0m[31merror[0m] [0m[0mclass WithBootROM extends Config((site, here, up) => {[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ConfigFragments.scala:38:51: no arguments allowed for nullary constructor Object: ()Object[0m
+[0m[[0m[31merror[0m] [0m[0mclass WithBootROM extends Config((site, here, up) => {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ConfigFragments.scala:44:24: not found: type Config[0m
+[0m[[0m[31merror[0m] [0m[0mclass WithGPIO extends Config((site, here, up) => {[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ConfigFragments.scala:44:48: no arguments allowed for nullary constructor Object: ()Object[0m
+[0m[[0m[31merror[0m] [0m[0mclass WithGPIO extends Config((site, here, up) => {[0m
+[0m[[0m[31merror[0m] [0m[0m                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ConfigFragments.scala:50:24: not found: type Config[0m
+[0m[[0m[31merror[0m] [0m[0mclass WithUART extends Config((site, here, up) => {[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ConfigFragments.scala:50:48: no arguments allowed for nullary constructor Object: ()Object[0m
+[0m[[0m[31merror[0m] [0m[0mclass WithUART extends Config((site, here, up) => {[0m
+[0m[[0m[31merror[0m] [0m[0m                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ConfigFragments.scala:55:26: not found: type Config[0m
+[0m[[0m[31merror[0m] [0m[0mclass WithNoGPIO extends Config((site, here, up) => {[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ConfigFragments.scala:55:50: no arguments allowed for nullary constructor Object: ()Object[0m
+[0m[[0m[31merror[0m] [0m[0mclass WithNoGPIO extends Config((site, here, up) => {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ConfigFragments.scala:59:40: not found: type Config[0m
+[0m[[0m[31merror[0m] [0m[0mclass WithL2TLBs(entries: Int) extends Config((site, here, up) => {[0m
+[0m[[0m[31merror[0m] [0m[0m                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ConfigFragments.scala:59:64: no arguments allowed for nullary constructor Object: ()Object[0m
+[0m[[0m[31merror[0m] [0m[0mclass WithL2TLBs(entries: Int) extends Config((site, here, up) => {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ConfigFragments.scala:68:31: not found: type Config[0m
+[0m[[0m[31merror[0m] [0m[0mclass WithTracegenTop extends Config((site, here, up) => {[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ConfigFragments.scala:68:55: no arguments allowed for nullary constructor Object: ()Object[0m
+[0m[[0m[31merror[0m] [0m[0mclass WithTracegenTop extends Config((site, here, up) => {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ConfigFragments.scala:73:63: not found: type Config[0m
+[0m[[0m[31merror[0m] [0m[0mclass WithRenumberHarts(rocketFirst: Boolean = false) extends Config((site, here, up) => {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ConfigFragments.scala:73:87: no arguments allowed for nullary constructor Object: ()Object[0m
+[0m[[0m[31merror[0m] [0m[0mclass WithRenumberHarts(rocketFirst: Boolean = false) extends Config((site, here, up) => {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ConfigFragments.scala:92:34: not found: type Field[0m
+[0m[[0m[31merror[0m] [0m[0mcase object MultiRoCCKey extends Field[Map[Int, Seq[Parameters => LazyRoCC]]](Map.empty[Int, Seq[Parameters => LazyRoCC]])[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ConfigFragments.scala:92:88: no arguments allowed for nullary constructor Object: ()Object[0m
+[0m[[0m[31merror[0m] [0m[0mcase object MultiRoCCKey extends Field[Map[Int, Seq[Parameters => LazyRoCC]]](Map.empty[Int, Seq[Parameters => LazyRoCC]])[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ConfigFragments.scala:97:29: not found: type Config[0m
+[0m[[0m[31merror[0m] [0m[0mclass WithMultiRoCC extends Config((site, here, up) => {[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ConfigFragments.scala:97:53: no arguments allowed for nullary constructor Object: ()Object[0m
+[0m[[0m[31merror[0m] [0m[0mclass WithMultiRoCC extends Config((site, here, up) => {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ConfigFragments.scala:112:48: not found: type Config[0m
+[0m[[0m[31merror[0m] [0m[0mclass WithMultiRoCCHwacha(harts: Int*) extends Config((site, here, up) => {[0m
+[0m[[0m[31merror[0m] [0m[0m                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ConfigFragments.scala:112:72: no arguments allowed for nullary constructor Object: ()Object[0m
+[0m[[0m[31merror[0m] [0m[0mclass WithMultiRoCCHwacha(harts: Int*) extends Config((site, here, up) => {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ConfigFragments.scala:128:31: not found: type Config[0m
+[0m[[0m[31merror[0m] [0m[0mclass WithControlCore extends Config((site, here, up) => {[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/ConfigFragments.scala:128:55: no arguments allowed for nullary constructor Object: ()Object[0m
+[0m[[0m[31merror[0m] [0m[0mclass WithControlCore extends Config((site, here, up) => {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/Generator.scala:5:8: not found: object chisel3[0m
+[0m[[0m[31merror[0m] [0m[0mimport chisel3._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/Generator.scala:7:8: not found: object freechips[0m
+[0m[[0m[31merror[0m] [0m[0mimport freechips.rocketchip.config.{Parameters}[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/Generator.scala:8:8: not found: object freechips[0m
+[0m[[0m[31merror[0m] [0m[0mimport freechips.rocketchip.util.{GeneratorApp}[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/Generator.scala:9:8: not found: object freechips[0m
+[0m[[0m[31merror[0m] [0m[0mimport freechips.rocketchip.system.{TestGeneration}[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/Generator.scala:11:26: not found: type GeneratorApp[0m
+[0m[[0m[31merror[0m] [0m[0mobject Generator extends GeneratorApp {[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/Generator.scala:14:21: not found: type Parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    implicit val p: Parameters = params[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/Generator.scala:14:34: not found: value params[0m
+[0m[[0m[31merror[0m] [0m[0m    implicit val p: Parameters = params[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/TestSuites.scala:61:10: not found: value freechips[0m
+[0m[[0m[31merror[0m] [0m[0m  import freechips.rocketchip.system.DefaultTestSuites._[0m
+[0m[[0m[31merror[0m] [0m[0m         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/TestSuites.scala:7:8: not found: object freechips[0m
+[0m[[0m[31merror[0m] [0m[0mimport freechips.rocketchip.config.{Parameters}[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/TestSuites.scala:108:39: not found: type Parameters[0m
+[0m[[0m[31merror[0m] [0m[0m  def addRocketTestSuites(implicit p: Parameters) = {[0m
+[0m[[0m[31merror[0m] [0m[0m                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/TestSuites.scala:67:37: not found: type Parameters[0m
+[0m[[0m[31merror[0m] [0m[0m  def addBoomTestSuites(implicit p: Parameters) = {[0m
+[0m[[0m[31merror[0m] [0m[0m                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/TestSuites.scala:147:39: not found: type Parameters[0m
+[0m[[0m[31merror[0m] [0m[0m  def addArianeTestSuites(implicit p: Parameters) = {[0m
+[0m[[0m[31merror[0m] [0m[0m                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/Generator.scala:23:12: not found: value hwacha[0m
+[0m[[0m[31merror[0m] [0m[0m    import hwacha.HwachaTestSuites._[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/Generator.scala:25:7: not found: value TestGeneration[0m
+[0m[[0m[31merror[0m] [0m[0m      TestGeneration.addSuites(rv64uv.map(_("p")))[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/Generator.scala:25:32: not found: value rv64uv[0m
+[0m[[0m[31merror[0m] [0m[0m      TestGeneration.addSuites(rv64uv.map(_("p")))[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/Generator.scala:26:7: not found: value TestGeneration[0m
+[0m[[0m[31merror[0m] [0m[0m      TestGeneration.addSuites(rv64uv.map(_("vp")))[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/Generator.scala:26:32: not found: value rv64uv[0m
+[0m[[0m[31merror[0m] [0m[0m      TestGeneration.addSuites(rv64uv.map(_("vp")))[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/Generator.scala:27:7: not found: value TestGeneration[0m
+[0m[[0m[31merror[0m] [0m[0m      TestGeneration.addSuite(rv64sv("p"))[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/Generator.scala:27:31: not found: value rv64sv[0m
+[0m[[0m[31merror[0m] [0m[0m      TestGeneration.addSuite(rv64sv("p"))[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/Generator.scala:28:7: not found: value TestGeneration[0m
+[0m[[0m[31merror[0m] [0m[0m      TestGeneration.addSuite(hwachaBmarks)[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/Generator.scala:28:31: not found: value hwachaBmarks[0m
+[0m[[0m[31merror[0m] [0m[0m      TestGeneration.addSuite(hwachaBmarks)[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/Generator.scala:33:32: not found: value names[0m
+[0m[[0m[31merror[0m] [0m[0m  override lazy val longName = names.topModuleProject + "." + names.topModuleClass + "." + names.configs[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/Generator.scala:33:63: not found: value names[0m
+[0m[[0m[31merror[0m] [0m[0m  override lazy val longName = names.topModuleProject + "." + names.topModuleClass + "." + names.configs[0m
+[0m[[0m[31merror[0m] [0m[0m                                                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/Generator.scala:33:92: not found: value names[0m
+[0m[[0m[31merror[0m] [0m[0m  override lazy val longName = names.topModuleProject + "." + names.topModuleClass + "." + names.configs[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/Generator.scala:36:3: not found: value generateFirrtl[0m
+[0m[[0m[31merror[0m] [0m[0m  generateFirrtl[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/Generator.scala:37:3: not found: value generateAnno[0m
+[0m[[0m[31merror[0m] [0m[0m  generateAnno[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/Generator.scala:38:3: not found: value generateTestSuiteMakefrags[0m
+[0m[[0m[31merror[0m] [0m[0m  generateTestSuiteMakefrags[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/Generator.scala:39:3: not found: value generateArtefacts[0m
+[0m[[0m[31merror[0m] [0m[0m  generateArtefacts[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/IOBinders.scala:3:8: not found: object chisel3[0m
+[0m[[0m[31merror[0m] [0m[0mimport chisel3._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/IOBinders.scala:5:8: not found: object freechips[0m
+[0m[[0m[31merror[0m] [0m[0mimport freechips.rocketchip.config.{Field, Config, Parameters}[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/IOBinders.scala:6:8: not found: object freechips[0m
+[0m[[0m[31merror[0m] [0m[0mimport freechips.rocketchip.diplomacy.{LazyModule}[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/IOBinders.scala:7:8: not found: object freechips[0m
+[0m[[0m[31merror[0m] [0m[0mimport freechips.rocketchip.devices.debug._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/IOBinders.scala:8:8: not found: object freechips[0m
+[0m[[0m[31merror[0m] [0m[0mimport freechips.rocketchip.subsystem._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/IOBinders.scala:9:8: not found: object freechips[0m
+[0m[[0m[31merror[0m] [0m[0mimport freechips.rocketchip.system._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/IOBinders.scala:10:8: not found: object freechips[0m
+[0m[[0m[31merror[0m] [0m[0mimport freechips.rocketchip.util._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/IOBinders.scala:12:8: not found: object sifive[0m
+[0m[[0m[31merror[0m] [0m[0mimport sifive.blocks.devices.gpio._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/IOBinders.scala:13:8: not found: object sifive[0m
+[0m[[0m[31merror[0m] [0m[0mimport sifive.blocks.devices.uart._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/IOBinders.scala:15:8: not found: object testchipip[0m
+[0m[[0m[31merror[0m] [0m[0mimport testchipip._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/IOBinders.scala:16:8: not found: object icenet[0m
+[0m[[0m[31merror[0m] [0m[0mimport icenet._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/IOBinders.scala:17:8: not found: object tracegen[0m
+[0m[[0m[31merror[0m] [0m[0mimport tracegen.{HasTraceGenTilesModuleImp}[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/IOBinders.scala:35:31: not found: type Field[0m
+[0m[[0m[31merror[0m] [0m[0mcase object IOBinders extends Field[Map[String, (Clock, Bool, Bool, Any) => Seq[Any]]]([0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/IOBinders.scala:36:71: no arguments allowed for nullary constructor Object: ()Object[0m
+[0m[[0m[31merror[0m] [0m[0m  Map[String, (Clock, Bool, Bool, Any) => Seq[Any]]().withDefaultValue((c: Clock, r: Bool, s: Bool, t: Any) => Nil)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/IOBinders.scala:41:105: not found: type Config[0m
+[0m[[0m[31merror[0m] [0m[0mclass OverrideIOBinder[T](fn: => (Clock, Bool, Bool, T) => Seq[Any])(implicit tag: ClassTag[T]) extends Config((site, here, up) => {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/IOBinders.scala:41:35: not found: type Clock[0m
+[0m[[0m[31merror[0m] [0m[0mclass OverrideIOBinder[T](fn: => (Clock, Bool, Bool, T) => Seq[Any])(implicit tag: ClassTag[T]) extends Config((site, here, up) => {[0m
+[0m[[0m[31merror[0m] [0m[0m                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/IOBinders.scala:41:42: not found: type Bool[0m
+[0m[[0m[31merror[0m] [0m[0mclass OverrideIOBinder[T](fn: => (Clock, Bool, Bool, T) => Seq[Any])(implicit tag: ClassTag[T]) extends Config((site, here, up) => {[0m
+[0m[[0m[31merror[0m] [0m[0m                                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/IOBinders.scala:41:48: not found: type Bool[0m
+[0m[[0m[31merror[0m] [0m[0mclass OverrideIOBinder[T](fn: => (Clock, Bool, Bool, T) => Seq[Any])(implicit tag: ClassTag[T]) extends Config((site, here, up) => {[0m
+[0m[[0m[31merror[0m] [0m[0m                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/IOBinders.scala:41:129: no arguments allowed for nullary constructor Object: ()Object[0m
+[0m[[0m[31merror[0m] [0m[0mclass OverrideIOBinder[T](fn: => (Clock, Bool, Bool, T) => Seq[Any])(implicit tag: ClassTag[T]) extends Config((site, here, up) => {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/IOBinders.scala:54:104: not found: type Config[0m
+[0m[[0m[31merror[0m] [0m[0mclass ComposeIOBinder[T](fn: => (Clock, Bool, Bool, T) => Seq[Any])(implicit tag: ClassTag[T]) extends Config((site, here, up) => {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/IOBinders.scala:54:34: not found: type Clock[0m
+[0m[[0m[31merror[0m] [0m[0mclass ComposeIOBinder[T](fn: => (Clock, Bool, Bool, T) => Seq[Any])(implicit tag: ClassTag[T]) extends Config((site, here, up) => {[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/IOBinders.scala:54:41: not found: type Bool[0m
+[0m[[0m[31merror[0m] [0m[0mclass ComposeIOBinder[T](fn: => (Clock, Bool, Bool, T) => Seq[Any])(implicit tag: ClassTag[T]) extends Config((site, here, up) => {[0m
+[0m[[0m[31merror[0m] [0m[0m                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/IOBinders.scala:54:47: not found: type Bool[0m
+[0m[[0m[31merror[0m] [0m[0mclass ComposeIOBinder[T](fn: => (Clock, Bool, Bool, T) => Seq[Any])(implicit tag: ClassTag[T]) extends Config((site, here, up) => {[0m
+[0m[[0m[31merror[0m] [0m[0m                                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/IOBinders.scala:54:128: no arguments allowed for nullary constructor Object: ()Object[0m
+[0m[[0m[31merror[0m] [0m[0mclass ComposeIOBinder[T](fn: => (Clock, Bool, Bool, T) => Seq[Any])(implicit tag: ClassTag[T]) extends Config((site, here, up) => {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/IOBinders.scala:69:18: not found: type HasPeripheryGPIOModuleImp[0m
+[0m[[0m[31merror[0m] [0m[0m  (c, r, s, top: HasPeripheryGPIOModuleImp) => top.gpio.map(gpio => gpio.pins.map(p => p.i.ival := false.B)); Nil[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/IOBinders.scala:73:18: not found: type CanHavePeripheryBlockDeviceModuleImp[0m
+[0m[[0m[31merror[0m] [0m[0m  (c, r, s, top: CanHavePeripheryBlockDeviceModuleImp) => top.connectSimBlockDevice(c, r); Nil[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/IOBinders.scala:77:18: not found: type CanHavePeripheryBlockDeviceModuleImp[0m
+[0m[[0m[31merror[0m] [0m[0m  (c, r, s, top: CanHavePeripheryBlockDeviceModuleImp) => top.connectBlockDeviceModel(); Nil[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/liwenqing/chipyard-20200811/chipyard/generators/chipyard/src/main/scala/IOBinders.scala:81:18: not found: type CanHavePeripheryIceNICModuleImp[0m
+[0m[[0m[31merror[0m] [0m[0m  (c, r, s, top: CanHavePeripheryIceNICModuleImp) => top.connectNicLoopback(); Nil[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m684 errors found[0m

@@ -1,0 +1,3 @@
+[submodule "ygjk_test"]
+	path = ygjk_test
+	url = http://foxsen.3322.org:33336/zhuweipu/ygjk_test.git

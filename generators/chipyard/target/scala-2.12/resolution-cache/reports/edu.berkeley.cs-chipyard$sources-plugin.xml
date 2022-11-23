@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="edu.berkeley.cs"
+		module="chipyard$sources"
+		revision="1.0"
+		conf="plugin"
+		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool, scoveragePlugin"
+		date="20210715171216"/>
+	<dependencies>
+		<module organisation="org.scalamacros" name="paradise_2.12.10">
+			<revision name="2.1.0" status="release" pubdate="20190912193514" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/scalamacros/paradise" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="3">
+				<license name="BSD-like" url="http://www.scala-lang.org/downloads/license.html"/>
+				<metadata-artifact status="no" details="" size="3019" time="0" location="/home/vinacky/.ivy2/cache/org.scalamacros/paradise_2.12.10/ivy-2.1.0.xml" searched="false" origin-is-local="false" origin-location="https://repo.huaweicloud.com/repository/maven/org/scalamacros/paradise_2.12.10/2.1.0/paradise_2.12.10-2.1.0.pom"/>
+				<caller organisation="edu.berkeley.cs" name="chipyard$sources" conf="plugin" rev="2.1.0" rev-constraint-default="2.1.0" rev-constraint-dynamic="2.1.0" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="paradise_2.12.10" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="24080" time="0" location="/home/vinacky/.ivy2/cache/org.scalamacros/paradise_2.12.10/srcs/paradise_2.12.10-2.1.0-sources.jar">
+						<origin-location is-local="false" location="https://repo.huaweicloud.com/repository/maven/org/scalamacros/paradise_2.12.10/2.1.0/paradise_2.12.10-2.1.0-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-lang" name="scala-compiler">
+			<revision name="2.12.10" status="release" pubdate="20190911065755" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://www.scala-lang.org/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="4">
+				<license name="Apache-2.0" url="https://www.apache.org/licenses/LICENSE-2.0"/>
+				<metadata-artifact status="no" details="" size="3220" time="0" location="/home/vinacky/.ivy2/cache/org.scala-lang/scala-compiler/ivy-2.12.10.xml" searched="false" origin-is-local="false" origin-location="https://repo.huaweicloud.com/repository/maven/org/scala-lang/scala-compiler/2.12.10/scala-compiler-2.12.10.pom"/>
+				<caller organisation="edu.berkeley.cs" name="chipyard$sources" conf="plugin" rev="2.12.10" rev-constraint-default="2.12.10" rev-constraint-dynamic="2.12.10" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="scala-compiler" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="1888336" time="0" location="/home/vinacky/.ivy2/cache/org.scala-lang/scala-compiler/srcs/scala-compiler-2.12.10-sources.jar">
+						<origin-location is-local="false" location="https://repo.huaweicloud.com/repository/maven/org/scala-lang/scala-compiler/2.12.10/scala-compiler-2.12.10-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-lang" name="scala-reflect">
+			<revision name="2.12.10" status="release" pubdate="20190911065306" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://www.scala-lang.org/" extra-info.apiURL="https://www.scala-lang.org/api/2.12.10/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="2">
+				<license name="Apache-2.0" url="https://www.apache.org/licenses/LICENSE-2.0"/>
+				<metadata-artifact status="no" details="" size="2835" time="0" location="/home/vinacky/.ivy2/cache/org.scala-lang/scala-reflect/ivy-2.12.10.xml" searched="false" origin-is-local="false" origin-location="https://repo.huaweicloud.com/repository/maven/org/scala-lang/scala-reflect/2.12.10/scala-reflect-2.12.10.pom"/>
+				<caller organisation="edu.berkeley.cs" name="chipyard$sources" conf="plugin" rev="2.12.10" rev-constraint-default="2.12.10" rev-constraint-dynamic="2.12.10" callerrev="1.0" extra-info.apiURL="https://www.scala-lang.org/api/2.12.10/"/>
+				<artifacts>
+					<artifact name="scala-reflect" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="623839" time="0" location="/home/vinacky/.ivy2/cache/org.scala-lang/scala-reflect/srcs/scala-reflect-2.12.10-sources.jar">
+						<origin-location is-local="false" location="https://repo.huaweicloud.com/repository/maven/org/scala-lang/scala-reflect/2.12.10/scala-reflect-2.12.10-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-lang.modules" name="scala-xml_2.12">
+			<revision name="1.0.6" status="release" pubdate="20161101102105" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="1">
+				<license name="BSD 3-clause" url="http://opensource.org/licenses/BSD-3-Clause"/>
+				<metadata-artifact status="no" details="" size="3126" time="0" location="/home/vinacky/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/ivy-1.0.6.xml" searched="false" origin-is-local="false" origin-location="file:////home/liwenqing/.sbt/preloaded/org.scala-lang.modules/scala-xml_2.12/1.0.6/ivys/ivy.xml"/>
+				<caller organisation="edu.berkeley.cs" name="chipyard$sources" conf="plugin" rev="1.0.6" rev-constraint-default="1.0.6" rev-constraint-dynamic="1.0.6" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="scala-xml_2.12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="109199" time="0" location="/home/vinacky/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/srcs/scala-xml_2.12-1.0.6-sources.jar">
+						<origin-location is-local="false" location="https://repo.huaweicloud.com/repository/maven/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-lang" name="scala-library">
+			<revision name="2.12.10" status="release" pubdate="20190911065304" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://www.scala-lang.org/" extra-info.apiURL="https://www.scala-lang.org/api/2.12.10/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="0">
+				<license name="Apache-2.0" url="https://www.apache.org/licenses/LICENSE-2.0"/>
+				<metadata-artifact status="no" details="" size="2662" time="0" location="/home/vinacky/.ivy2/cache/org.scala-lang/scala-library/ivy-2.12.10.xml" searched="false" origin-is-local="false" origin-location="https://repo.huaweicloud.com/repository/maven/org/scala-lang/scala-library/2.12.10/scala-library-2.12.10.pom"/>
+				<caller organisation="edu.berkeley.cs" name="chipyard$sources" conf="plugin" rev="2.12.10" rev-constraint-default="2.12.10" rev-constraint-dynamic="2.12.10" callerrev="1.0" extra-info.apiURL="https://www.scala-lang.org/api/2.12.10/"/>
+				<artifacts>
+					<artifact name="scala-library" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="1027173" time="0" location="/home/vinacky/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.10-sources.jar">
+						<origin-location is-local="false" location="https://repo.huaweicloud.com/repository/maven/org/scala-lang/scala-library/2.12.10/scala-library-2.12.10-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+	</dependencies>
+</ivy-report>

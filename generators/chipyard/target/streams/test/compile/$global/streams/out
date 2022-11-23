@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/vinacky/user/chipyard/chipyard-1.2/generators/chipyard/src/test/scala/TestUtils.scala:70:38: method newInstance in class Class is deprecated: see corresponding Javadoc for more information.[0m
+[0m[[0m[33mwarn[0m] [0m[0m      (Class.forName(fullConfigName).newInstance.asInstanceOf[Config] ++ Parameters.empty)[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                     ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
