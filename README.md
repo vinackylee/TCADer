@@ -8,13 +8,15 @@ So first you should build chipyard 1.2 as per this documentation site: https://c
 
 ### Directory Structure
 
--- acc                     *accelerator source code*
+-- acc                      --> *accelerator source code*
 
--- generators       *Modified boom, rocket, chipyard*
+-- generators        --> *Modified boom, rocket, chipyard*
 
--- sim-test            *Sample Bare Metal Testing Procedure*
+-- sim-test             --> *Sample Bare Metal Testing Procedure*
 
--- tcader			   **The main code of TCADer，CoMU，LMMU，SDMA，Cache**
+-- tcader			    --> **The main code of TCADer，CoMU，LMMU，SDMA，Cache**
+
+
 
 
 
